@@ -73,35 +73,36 @@ experiences:
         time: 2022 - Present
         company: Terran Orbital Corporation
         details: |
-        - Developed automated acceptance testing software for Printed Circuit Board Assemblies including serial control of test equipment and analysis of embedded software telemetry.
-        - Created containerized Python SAR collection tasking API. Generates radar software commands for the optimal viewing geometry and timing conditions based on the requested target location and satellite ephemeris.
-        - Implemented SAR image formation algorithms on Amazon Web Services.
-        - Conducted RF integration testing and performance analysis, including impulse responses, power spectral densities and timing.
+          - Developed automated acceptance testing software for Printed Circuit Board Assemblies including serial control of test equipment and analysis of embedded software telemetry.
+          - Created containerized Python SAR collection tasking API. Generates radar software commands for the optimal viewing geometry and timing conditions based on the requested target location and satellite ephemeris.
+          - Implemented SAR image formation algorithms on Amazon Web Services.
+          - Conducted RF integration testing and performance analysis, including impulse responses, power spectral densities and timing.
       - role: RF Engineer Staff
         time: 2019 - 2022
         company: Lockheed Martin – Missiles and Fire Control
         details: |
-        - Architected scene generation algorithms for a 60-foot free-space radar Hardware-in-the-loop test facility including high fidelity radar phenomenology.
-        - Designed RF frequency upconversion plan to manage RF scene requirements, latency, FPGA resource utilization and spurious signals.
-        - Managed architecture, design, and fabrication of multiple digital and RF Circuit Card Assemblies.
+          - Architected scene generation algorithms for a 60-foot free-space radar Hardware-in-the-loop test facility including high fidelity radar phenomenology.
+          - Designed RF frequency upconversion plan to manage RF scene requirements, latency, FPGA resource utilization and spurious signals.
+          - Managed architecture, design, and fabrication of multiple digital and RF Circuit Card Assemblies.
       - role: Radar Algorithm Engineer
         time: 2018 - 2019
         company: L3 Harris – Security and Detection Systems
         details: |
-        - Developed and tested MATLAB and C++ algorithms for Ground Penetrating Radar (GPR) on a handheld land mine detection including field and lab data collections.
-        - Developed MATLAB tools for improved analysis and visualization of GPR hardware and buried object detection algorithm performance.
+          - Developed and tested MATLAB and C++ algorithms for Ground Penetrating Radar (GPR) on a handheld land mine detection including field and lab data collections.
+          - Developed MATLAB tools for improved analysis and visualization of GPR hardware and buried object detection algorithm performance.
       - role: Associate Staff
         time: 2009 - 2018
         company: MIT Lincoln Laboratory – Space Division
         details: |
-        - Led novel radar satellite imaging algorithm development program for 2+ years. Fused data from existing radars to produce best-in-the-world resolution RF imagery of Geosynchronous satellites.
-        - Planned and executed data collections for Space Surveillance Network radars including waveform optimization, satellite viewing windows, and operator tracking priorities.
-        - Optimized ISAR image production software for execution time, parallel processing, memory usage, and improved user experience for creating 3 cm resolution W-Band images of LEO satellites.
-        - Simulated and analyzed RF signatures of ballistic missiles and Solid-Fuel Rocket debris to assess radar performance and development of radar clutter mitigation algorithms.
+          - Led novel radar satellite imaging algorithm development program for 2+ years. Fused data from existing radars to produce best-in-the-world resolution RF imagery of Geosynchronous satellites.
+          - Planned and executed data collections for Space Surveillance Network radars including waveform optimization, satellite viewing windows, and operator tracking priorities.
+          - Optimized ISAR image production software for execution time, parallel processing, memory usage, and improved user experience for creating 3 cm resolution W-Band images of LEO satellites.
+          - Simulated and analyzed RF signatures of ballistic missiles and Solid-Fuel Rocket debris to assess radar performance and development of radar clutter mitigation algorithms.
 
 
 publications:
     title: Conferences and Publications
+    intro: "*Note former name: Lea Hansen" 
     papers:
       - title: "Haystack Ultrawideband Satellite Imaging Radar (HUSIR) Data Processing and Exploitation"
         authors: L. Hansen*, K. Fields, R. Morrison
@@ -125,3 +126,4 @@ publications:
       - title: "A Technique for Real-Time Shadowing Adjustment of RCS Scattering Center Models"
         authors: J. Wilson, B. Rybicki, L. Johnson, D. Koltenuk
         conference: "IEEE Antennas and Propagation. Oct 2011."
+    
