@@ -8,23 +8,23 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Lea Johnson
+    tagline: Signal Processing Engineer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: example@email.com
-    phone: 012 345 6789
-    timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+    email: Lea.E.Johnson@gmail.com
+    phone: 651-303-9335
+    timezone: # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
     citizenship:
-    website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-    linkedin: alandoe
-    xing: alandoe
-    github: jekyll
+    website:  # Include the full website URL, including "http://" or "https://".
+    linkedin: lea-johnson-92408423
+    xing: 
+    github: leaejohnson
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@jekyllrb'
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -33,236 +33,95 @@ sidebar:
     leetcode: # Please provide your LeetCode username.
     pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
 
-    languages:
-      title: Languages
-      info:
-        - idiom: English
-          level: Native
-
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
-          level: Professional
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Cave Diving
           link:
 
-        - item: Snowboarding
+        - item: Mountain Biking
           link:
 
-        - item: Cooking
+        - item: Rock Climbing
           link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+    Radar and Machine Learning Engineer with a MS degree and expertise in SAR/ISAR imaging, algorithm development, and signal processing, leveraging Python and Matlab to drive innovation in the aerospace field.
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: MS in Electrical Engineering
+        university: Boston University
+        time: 2013 - 2015
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Thesis Project: Developed machine learning technique to detect and quantify object tracks in radar images using the Radon Transform. Utilized to automate quantitative analysis of data with many fragments of solid rocket fuel debris in support of trajectory model development.
+      - degree: Part-Time Graduate Courses
+        university: Massachusetts Institute of Technology
+        time: 2012 
+      - degree: BS in Electrical Engineering
+        university: Michigan Technological University
+        time: 2005 - 2009
+        
 
 experiences:
-    title: Experiences
+    title: Professional Experience
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Senior Radar Engineer
+        time: 2022 - Present
+        company: Terran Orbital Corporation
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+        - Developed automated acceptance testing software for Printed Circuit Board Assemblies including serial control of test equipment and analysis of embedded software telemetry.
+        - Created containerized Python SAR collection tasking API. Generates radar software commands for the optimal viewing geometry and timing conditions based on the requested target location and satellite ephemeris.
+        - Implemented SAR image formation algorithms on Amazon Web Services.
+        - Conducted RF integration testing and performance analysis, including impulse responses, power spectral densities and timing.
+      - role: RF Engineer Staff
+        time: 2019 - 2022
+        company: Lockheed Martin – Missiles and Fire Control
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+        - Architected scene generation algorithms for a 60-foot free-space radar Hardware-in-the-loop test facility including high fidelity radar phenomenology.
+        - Designed RF frequency upconversion plan to manage RF scene requirements, latency, FPGA resource utilization and spurious signals.
+        - Managed architecture, design, and fabrication of multiple digital and RF Circuit Card Assemblies.
+      - role: Radar Algorithm Engineer
+        time: 2018 - 2019
+        company: L3 Harris – Security and Detection Systems
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+        - Developed and tested MATLAB and C++ algorithms for Ground Penetrating Radar (GPR) on a handheld land mine detection including field and lab data collections.
+        - Developed MATLAB tools for improved analysis and visualization of GPR hardware and buried object detection algorithm performance.
+      - role: Associate Staff
+        time: 2009 - 2018
+        company: MIT Lincoln Laboratory – Space Division
+        details: |
+        - Led novel radar satellite imaging algorithm development program for 2+ years. Fused data from existing radars to produce best-in-the-world resolution RF imagery of Geosynchronous satellites.
+        - Planned and executed data collections for Space Surveillance Network radars including waveform optimization, satellite viewing windows, and operator tracking priorities.
+        - Optimized ISAR image production software for execution time, parallel processing, memory usage, and improved user experience for creating 3 cm resolution W-Band images of LEO satellites.
+        - Simulated and analyzed RF signatures of ballistic missiles and Solid-Fuel Rocket debris to assess radar performance and development of radar clutter mitigation algorithms.
 
-certifications:
-      title: Certifications
-      list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
-          details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
-          start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
-          details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+    title: Conferences and Publications
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: "Haystack Ultrawideband Satellite Imaging Radar (HUSIR) Data Processing and Exploitation"
+        authors: L. Hansen*, K. Fields, R. Morrison
+        conference: "Military Sensing Symposia (MSS) Tri-Service Radar Symposium. June 2018."
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: "Wideband Radar Imaging of Geosynchronous Objects"
+        authors: L. Hansen*, R. Morrison
+        conference: "Military Sensing Symposia (MSS) Tri-Service Radar Symposium. 18-21 July 2017."
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: "Radar Imaging of Geosynchronous Satellites"
+        authors: L. Hansen*
+        conference: "MIT Lincoln Laboratory Space Control Conference. May 2017."
 
-skills:
-    title: Skills &amp; Proficiency
+      - title: "Novel Radar Imaging Capability"
+        conference: "Congressional Notification, Feb 7, 2017."
 
-    toolset:
-      - name: Python & Django
-        level: 98%
+      - title: "An Approach to Solid Fuel Debris RF Modeling"
+        authors: D. Koltenuk, L. Johnson, T. Bond
+        conference: "Proceedings of the Missile Defense Sensors, Environments and Algorithms Conference. Oct 2011."
 
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
-
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+      - title: "A Technique for Real-Time Shadowing Adjustment of RCS Scattering Center Models"
+        authors: J. Wilson, B. Rybicki, L. Johnson, D. Koltenuk
+        conference: "IEEE Antennas and Propagation. Oct 2011."
