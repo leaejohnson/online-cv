@@ -134,7 +134,4 @@ projects:
       git, Ground Penetrating Radar, Machine Learning, PyTorch, Electromagnetic Modeling and 
       Simulation, Docker, C++, STK, API development, AWS cloud data processing, X-Patch, 
       Agile Project Management
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+
