@@ -128,12 +128,7 @@ publications:
         conference: "IEEE Antennas and Propagation. Oct 2011."
     
 projects:
-    title: Projects
+    title: EXPERTISE
     intro: |
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      ISAR/SAR Imaging, Signal & Image Processing, Python, MATLAB, Algorithm Development, git, Ground Penetrating Radar, Machine Learning, PyTorch, Electromagnetic Modeling and Simulation, Docker, C++, STK, API development, AWS cloud data processing, X-Patch, Agile Project Management
+
