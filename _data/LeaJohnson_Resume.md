@@ -1,11 +1,11 @@
 # Lea E. Johnson
 
 (651) 303-9335  
-Lea.E.Johnson@gmail.com   
+Lea.E.Johnson@pm.me   
 https://www.linkedin.com/in/lea-johnson-92408423/  
 https://github.com/leaejohnson 
 
-#### Radar and Machine Learning Engineer with a MS degree and expertise in SAR/ISAR imaging, algorithm development, and cloud-based solutions, leveraging Python, PyTorch, and AWS to drive innovation in the aerospace field.
+#### Radar and Machine Learning Engineer with a MS degree and expertise in SAR/ISAR imaging, algorithm development, leveraging Python, PyTorch, and AWS to drive innovation in the aerospace field.
 
 ## EXPERTISE
 ISAR/SAR Imaging, Signal & Image Processing, Python, MATLAB, Algorithm Development, git, Ground Penetrating Radar, Machine Learning, PyTorch, Electromagnetic Modeling and Simulation, Docker, C++, STK, API development, AWS cloud data processing, X-Patch, Agile Project Management
@@ -14,6 +14,7 @@ ISAR/SAR Imaging, Signal & Image Processing, Python, MATLAB, Algorithm Developme
 ### __Terran Orbital Corporation,__  *Melbourne, FL* 
 __Senior Radar Engineer__		                 
 *APR 2022 – PRESENT*  
+- Prototyped detection algorithms in Python and outlined development plan for track management algorithms.  
 - Developed automated acceptance testing software for Printed Circuit Board Assemblies including serial control of test equipment and analysis of embedded software telemetry.
 - Created containerized Python SAR collection tasking API. Generates radar software commands for the optimal viewing geometry and timing conditions based on the requested target location and satellite ephemeris.
 - Implemented SAR image formation algorithms on Amazon Web Services.
