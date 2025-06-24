@@ -13,7 +13,7 @@ sidebar:
     avatar: LJohnson_profile_sm.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: Lea.e.Johnson@gmail.com
+    email: Lea.e.Johnson@pm.me
     phone: 651-303-9335
     timezone: # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
     citizenship:
@@ -73,6 +73,7 @@ experiences:
         time: 2022 - Present
         company: Terran Orbital Corporation
         details: |
+          - Prototyped detection algorithms in Python and outlined development plan for track management algorithms. 
           - Developed automated acceptance testing software for Printed Circuit Board Assemblies including serial control of test equipment and analysis of embedded software telemetry.
           - Created containerized Python SAR collection tasking API. Generates radar software commands for the optimal viewing geometry and timing conditions based on the requested target location and satellite ephemeris.
           - Implemented SAR image formation algorithms on Amazon Web Services.
